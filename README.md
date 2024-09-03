@@ -1,6 +1,7 @@
 ![MasterHead](https://r.resimlink.com/P5fi6smJ19e.jpg)
 <h1 align="center">Hi 👋, I'm Software Developer</h1>
 <h4 align="center">I spend most of my time on web development.</h3>
+<hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p0unter&label=Profile%20views&color=0e75b6&style=flat" alt="p0unter" /> </p>
 
