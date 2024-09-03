@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Software Developer</h1>
 <h3 align="center">I spend most of my time on web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p0unter&label=Profile%20views&color=0e75b6&style=flat" alt="p0unter" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=p0unter&label=Profile%20views&color=0e75b6&style=flat" alt="p0unter" /> </p>
 
 - 🌱 I’m currently learning **BACK-END**
 
