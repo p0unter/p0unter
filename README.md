@@ -1,4 +1,4 @@
-[MasterHead](https://r.resimlink.com/P5fi6smJ19e.jpg)
+![MasterHead](https://r.resimlink.com/P5fi6smJ19e.jpg)
 <h1 align="center">Hi 👋, I'm Software Developer</h1>
 <h3 align="center">I spend most of my time on web development.</h3>
 
