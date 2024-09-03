@@ -6,7 +6,7 @@
 <p align="center"> 📝 I regularly write articles on <a href="https://pounter.net" target="_blank">pounter.net</a> </p>
 <p align="center"> 📫 How to reach me pounter@post.com </p>
 
-<h3 align="center">SOCiAL</h3>
+<h2 align="center">SOCiAL</h3>
 <hr>
 <p align="center">
 <a href="https://www.youtube.com/@trycatch00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@trycatch00" height="30" width="40" /></a>
