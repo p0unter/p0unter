@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p0unter&label=Profile%20views&color=0e75b6&style=flat" alt="p0unter" /> </p>
 
-- 🔭 I’m currently working on **Web development.**
-
 - 🌱 I’m currently learning **BACK-END**
 
 - 📝 I regularly write articles on [pounter.net](pounter.net)
