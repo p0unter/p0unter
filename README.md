@@ -2,7 +2,9 @@
 <h4 align="center">I spend most of my time on web development.</h3>
 <h2 align="center">Hi 👋, I'm Software Developer</h2>
 
+<p align="center">
 [![](https://visitcount.itsvg.in/api?id=Mal1koRe1ss&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
 
 <p align="center"> 📝 I regularly write articles on <a href="https://pounter.net" target="_blank">pounter.net</a> </p>
 <p align="center"> 📫 How to reach me pounter@post.com </p>
