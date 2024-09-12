@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=Mal1koRe1ss&icon=0&color=0)](https://visitcount.itsvg.in)
-![MasterHead](https://r.resimlink.com/P5fi6smJ19e.jpg)
+![MasterHead]([https://r.resimlink.com/P5fi6smJ19e.jpg](https://i.ibb.co/KjbGHhG/channels4-banner.jpg))
 <h4 align="center">I spend most of my time on web development.</h3>
 <h2 align="center">Hi 👋, I'm Software Developer</h2>
 
