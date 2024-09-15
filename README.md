@@ -1,6 +1,4 @@
 [![](https://visitcount.itsvg.in/api?id=Mal1koRe1ss&icon=0&color=0)](https://visitcount.itsvg.in)
-![channels4_banner]()
-
 ![MasterHead](https://github.com/user-attachments/assets/fe7618b1-9216-476a-910e-61e8ba37e3c0)
 <h4 align="center">I spend most of my time on web development.</h3>
 <h2 align="center">Hi 👋, I'm Software Developer</h2>
