@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td>
+    <td colspan="2">
       Pounter Software & IT Developer
     </td>
   </tr>
