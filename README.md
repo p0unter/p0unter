@@ -6,8 +6,8 @@
     </td>
   </tr>
   <tr>
-    <th><b>➝‬👋 Me</b></th>
-    <th><b>➝‬💨 Account Content</b></th>
+    <th><b>➝‬&nbsp;&nbsp;&nbsp;&nbsp;👋 Me</b></th>
+    <th><b>➝‬&nbsp;&nbsp;&nbsp;&nbsp;💨 Account Content</b></th>
   </tr>
   <tr>
     <td>
