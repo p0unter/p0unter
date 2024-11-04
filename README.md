@@ -17,7 +17,7 @@
     </td>
   </tr>
 </table>
-<table align="center" cellpadding="10" width="100%">
+<table align="center" cellpadding="10">
   <tr>
     <th>Contact</th>
     <th>Social</th>
