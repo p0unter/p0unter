@@ -1,11 +1,13 @@
 <h4 align="center">(I don't just write code 😉)</h3>
 <h2 align="center">Software & IT</h2>
 
+<b>➝‬Me</b>
 <p>I usually like to understand and read code more than to write it. But I'm still adept at writing it.</p>
 <p>In this account, you will see the projects I have made while improving myself. You can also see the prototypes I have shared to show how the projects I have initiated externally work.</p>
 <p> 📫 How to reach me <a href="mailto:pounter@post.com">pounter@post.com</a></p>
 
-<h2 align="center">SOCiAL</h2>
+<b>➝‬Account Content</b>
+<h2 align="center">➝‬SOCIAL</h2>
 <p align="center">
 <a href="https://www.youtube.com/@trycatch00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@trycatch00" height="30" width="40" /> YouTube</a>
 <a href="https://discord.gg/https://discordapp.com/users/652861592622333979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/652861592622333979" height="30" width="40" /> Discord Account</a>
