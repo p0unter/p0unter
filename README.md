@@ -18,21 +18,21 @@
     </td>
   </tr>
   <tr>
-    <th><b>➝‬ Me</b></th>
-    <th><b>➝‬ Account Content</b></th>
+    <th><b>➝‬👋 Me</b></th>
+    <th><b>➝‬💨 Account Content</b></th>
   </tr>
   <tr>
     <td>
-      👋 I usually like to understand and read code more than to write it. But I'm still adept at writing it.
+       I usually like to understand and read code more than to write it. But I'm still adept at writing it.
     </td>
     <td>
-      💨 In this account, you will see the projects I have made while improving myself. You can also see the prototypes I have shared to show how the projects I have initiated externally work.
+       In this account, you will see the projects I have made while improving myself. You can also see the prototypes I have shared to show how the projects I have initiated externally work.
     </td>
   </tr>
 </table>
 <fieldset>
   <legend><b>Contact</b></legend>
-  <ul type="">
+  <ul type="none">
     <li><a href="mailto:pounter@post.com">pounter@trycatch.network</a>, <a href="mailto:pounter@post.com">pounter@post.com</a>, <a href="mailto:pounter@post.com">p0unt3r@gmail.com</a></li>
   </ul>
 </fieldset>
