@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td colspan="2">
-      Software & IT Developer
+      IT Developer
     </td>
   </tr>
   <tr>
