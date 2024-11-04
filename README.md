@@ -17,7 +17,7 @@
     </td>
   </tr>
 </table>
-<table align="center">
+<table align="center" cellpadding="10">
   <tr>
     <td>
       <fieldset>
