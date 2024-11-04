@@ -1,4 +1,4 @@
-<h4 align="center">I spend most of my time on web development.</h3>
+<h4 align="center">(I don't just write code 😉)</h3>
 <h2 align="center">Software & IT</h2>
 
 <p>I usually like to understand and read code more than to write it. But I'm still adept at writing it.</p>
