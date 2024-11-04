@@ -1,8 +1,9 @@
 <h4 align="center">I spend most of my time on web development.</h3>
-<h2 align="center">Software Developer</h2>
+<h2 align="center">Software & IT</h2>
 
-<p align="center"> 📝 I regularly write articles on <a href="https://pounter.net" target="_blank">pounter.net</a> </p>
-<p align="center"> 📫 How to reach me pounter@post.com </p>
+<p>I usually like to understand and read code more than to write it. But I'm still adept at writing it.</p>
+<p>In this account, you will see the projects I have made while improving myself. You can also see the prototypes I have shared to show how the projects I have initiated externally work.</p>
+<p> 📫 How to reach me pounter@post.com </p>
 
 <h2 align="center">SOCiAL</h2>
 <p align="center">
