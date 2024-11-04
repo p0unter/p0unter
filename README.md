@@ -1,5 +1,3 @@
-<h2 align="center">Software & IT</h2>
-<h4 align="center">( I don't just write code 😉 )</h3>
 <table>
   <tr>
     <td colspan="2">
