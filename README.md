@@ -18,7 +18,7 @@
     </td>
   </tr>
 </table>
-<table align="center" cellpadding="10">
+<table align="left" cellpadding="10">
   <tr>
     <th>➝‬📞 Contact</th>
     <th>➝‬🌐 Social</th>
