@@ -17,7 +17,7 @@
     </td>
   </tr>
 </table>
-<table>
+<table align="center">
   <tr>
     <td width="70%">
       <fieldset>
