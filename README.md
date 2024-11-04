@@ -32,5 +32,7 @@
 </table>
 <fieldset>
   <legend><b>Contact</b></legend>
-  How to reach me <a href="mailto:pounter@post.com">pounter@post.com</a>
+  <ul type="">
+    <li><a href="mailto:pounter@post.com">pounter@post.com</a></li>
+  </ul>
 </fieldset>
