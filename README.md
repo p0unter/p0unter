@@ -26,9 +26,7 @@
   <tr>
     <td height="60">
       <fieldset>
-        <ul type="none">
-          <li><a href="mailto:pounter@post.com">pounter@trycatch.network</a>, <a href="mailto:pounter@post.com">pounter@post.com</a>, <a href="mailto:pounter@post.com">p0unt3r@gmail.com</a></li>
-        </ul>
+        <a href="mailto:pounter@post.com">pounter@trycatch.network</a>, <a href="mailto:pounter@post.com">pounter@post.com</a>, <a href="mailto:pounter@post.com">p0unt3r@gmail.com</a>
       </fieldset>
     </td>
     <td height="60">
