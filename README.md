@@ -6,8 +6,8 @@
     </td>
   </tr>
   <tr>
-    <th><b>➝&nbsp;👋 Me</b></th>
-    <th><b>➝‬&nbsp;💨 Account Content</b></th>
+    <th><b>👋 Me</b></th>
+    <th><b>💨 Account Content</b></th>
   </tr>
   <tr>
     <td>
@@ -20,8 +20,8 @@
 </table>
 <table align="left" cellpadding="10">
   <tr>
-    <th>➝‬📞 Contact</th>
-    <th>➝‬🌐 Social</th>
+    <th>📞 Contact</th>
+    <th>‬🌐 Social</th>
   </tr>
   <tr>
     <td height="60">
