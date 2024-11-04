@@ -31,6 +31,6 @@
   </tr>
 </table>
 <fieldset>
-  <h6>Contact</h6>
+  <b><u>Contact</u></b>
   How to reach me <a href="mailto:pounter@post.com">pounter@post.com</a>
 </fieldset>
