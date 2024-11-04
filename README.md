@@ -19,7 +19,7 @@
 </table>
 <table>
   <tr>
-    <td>
+    <td width="70%">
       <fieldset>
         <legend><b>Contact</b></legend>
         <ul type="none">
@@ -27,7 +27,7 @@
         </ul>
       </fieldset>
     </td>
-    <td>
+    <td width="30%">
       <h2 align="center">SOCIAL</h2>
       <p align="center">
       <a href="https://www.youtube.com/@trycatch00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@trycatch00" height="30" width="40" /> YouTube</a>
