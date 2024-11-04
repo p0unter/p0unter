@@ -33,6 +33,8 @@
 <fieldset>
   <legend><b>Contact</b></legend>
   <ul type="">
+    <li><a href="mailto:pounter@post.com">pounter@trycatch.network</a></li>
     <li><a href="mailto:pounter@post.com">pounter@post.com</a></li>
+    <li><a href="mailto:pounter@post.com">p0unt3r@gmail.com</a></li>
   </ul>
 </fieldset>
