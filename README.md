@@ -41,5 +41,5 @@
 </table>
 <div></div>
 <p align="center">
-  <a href="https://p0unter.github.io"> For More p0unter.github.io</a>
+  <a href="https://p0unter.github.io">❯ For More p0unter.github.io ❮</a>
 </p>
