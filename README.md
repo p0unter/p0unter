@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td colspan="2">
-      IT Developer
+      <b>IT Developer</b>
     </td>
   </tr>
   <tr>
