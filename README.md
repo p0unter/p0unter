@@ -38,6 +38,4 @@
   </tr>
 </table>
 <br>
-<p align="center">
-  <a href="https://p0unter.github.io"> For More p0unter.github.io</a>
-</p>
+<a href="https://p0unter.github.io"> For More p0unter.github.io</a>
