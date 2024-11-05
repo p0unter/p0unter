@@ -37,23 +37,3 @@
     </td>
   </tr>
 </table>
-
-# Deneyimlerim
-
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; margin-bottom: 20px;">
-    <h3 style="margin: 0;">Yazılım Geliştirici</h3>
-    <p style="color: #586069; margin: 5px 0;">Ocak 2022 - Şu anda</p>
-    <p>Web uygulamaları geliştirme ve bakım süreçlerinde yer aldım.</p>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; margin-bottom: 20px;">
-    <h3 style="margin: 0;">Stajyer Yazılım Geliştirici</h3>
-    <p style="color: #586069; margin: 5px 0;">Haziran 2021 - Aralık 2021</p>
-    <p>Projelerde destek sağladım ve yazılım geliştirme süreçlerini öğrendim.</p>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; margin-bottom: 20px;">
-    <h3 style="margin: 0;">Freelance Projeler</h3>
-    <p style="color: #586069; margin: 5px 0;">2020 - 2021</p>
-    <p>Çeşitli müşterilere web siteleri geliştirdim.</p>
-</div>
