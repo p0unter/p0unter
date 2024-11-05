@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td height="60" width="550">
-      <fieldset>
+      <fieldset align="center">
         <a href="mailto:pounter@trycatch.network">pounter@trycatch.network</a>, <a href="mailto:pounter@post.com">pounter@post.com</a>
       </fieldset>
     </td>
