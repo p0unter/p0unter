@@ -24,7 +24,7 @@
     <th>‬🌐 Social</th>
   </tr>
   <tr>
-    <td height="60">
+    <td height="60" width="500">
       <fieldset>
         <a href="mailto:pounter@trycatch.network">pounter@trycatch.network</a>, <a href="mailto:pounter@post.com">pounter@post.com</a>
       </fieldset>
