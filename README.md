@@ -29,7 +29,7 @@
         <a href="mailto:pounter@trycatch.network">pounter@trycatch.network</a>, <a href="mailto:pounter@post.com">pounter@post.com</a>, <a href="mailto:p0unt3r@gmail.com">p0unt3r@gmail.com</a>
       </fieldset>
     </td>
-    <td height="60">
+    <td height="60" width="500">
       <p align="center">
       <a href="https://www.youtube.com/@trycatch00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@trycatch00" height="30" width="40" /> Trycatch's YouTube Channel</a>
       <a href="https://discord.gg/https://discordapp.com/users/652861592622333979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/652861592622333979" height="30" width="40" /> Discord Account</a>
