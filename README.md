@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/a288c2b7-286e-4c2a-8e5c-4a9ea7db1e41" height="45">
+![v1imza_min](https://github.com/user-attachments/assets/5d17e477-a73e-4d6e-a481-f59a36183c0d)
 <p>
   <b>C</b>, <b>C++</b>(OpenGL, Vulkan), <b>C#</b>(ASP.NET), <b>JavaScript</b>(Node.js, Typescript, Angular)
 </p>
