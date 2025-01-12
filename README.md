@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td colspan="2">
-      <b>IT Developer</b>
+      <b>Software Developer</b>
     </td>
   </tr>
   <tr>
