@@ -1,5 +1,5 @@
 <p>
-  <b>C</b>, <b>C++</b>(OpenGL), <b>C#</b>(ASP.NET), <b>JavaScript</b>(Node.js, Typescript, Angular)
+  <b>C</b>, <b>C++</b>(OpenGL), <b>C#</b>(ASP.NET), <b>JavaScript</b>(Node.js, Typescript, Express.js), <b>CSS</b>(SCSS, Bootstrap)
 </p>
 <table>
   <tr>
