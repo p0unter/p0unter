@@ -1,25 +1,7 @@
 <p>
-  <b>C</b>, <b>C++</b>(OpenGL), <b>C#</b>(ASP.NET), <b>JavaScript</b>(Electronjs, Typescript, Express.js), <b>CSS/HTML</b>(SCSS, Bootstrap), <b>Java</b>
+  <b>C</b>, <b>C++</b>(OpenGL, IamGui), <b>C#</b>(ASP.NET), <b>JavaScript</b>(Typescript, Express.js), <b>CSS/HTML</b>(SCSS, Bootstrap), <b>Java(Android Studio)</b>
 </p>
-<table>
-  <tr>
-    <td colspan="2">
-      <b>Software Developer</b>
-    </td>
-  </tr>
-  <tr>
-    <th><b>👋 Me</b></th>
-    <th><b>💨 Account Content</b></th>
-  </tr>
-  <tr>
-    <td>
-       I usually like to understand and read code more than to write it. But I'm still adept at writing it.
-    </td>
-    <td>
-       In this account, you will see the projects I have made while improving myself. You can also see the prototypes I have shared to show how the projects I have initiated externally work.
-    </td>
-  </tr>
-</table>
+
 <table align="left" cellpadding="10" width="100%">
   <tr>
     <th>📞 Contact</th>
