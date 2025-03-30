@@ -1,5 +1,5 @@
 <p>
-  <b>C</b>, <b>C++</b>(OpenGL, IamGui), <b>C#</b>(ASP.NET), <b>JavaScript</b>(Typescript, Express.js), <b>CSS/HTML</b>(SCSS, Bootstrap), <b>Java(Console, Android)</b>
+  <b>C</b>, <b>C++</b>(OpenGL, IamGui), <b>C#</b>(ASP.NET), <b>JavaScript</b>(Typescript, Express.js), <b>CSS/HTML</b>(SCSS, Bootstrap), <b>Java(Desktop Applications, Android)</b>
 </p>
 
 <table align="left" cellpadding="10" width="100%">
