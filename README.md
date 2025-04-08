@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/425ea767-bead-4756-9692-581ebda912d2" height="550">
+  <img src="https://github.com/user-attachments/assets/425ea767-bead-4756-9692-581ebda912d2" height="400">
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=p0unter"  />
