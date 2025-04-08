@@ -1,9 +1,8 @@
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/86bd0412-be6c-475d-98a5-9af7052b01b7" height="250">
 </div>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/p0unter/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=p0unter"  />
 </div>
 
 <p align="center">
