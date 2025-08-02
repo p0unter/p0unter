@@ -21,5 +21,6 @@
 
 <details>
   <summary><strong>About</strong></summary>
+  <br>
 Based on my passion for the software industry, I have gained a wide range of experience by developing myself in various fields from a young age. I especially focused on deepening in the field of low-level programming and shared my knowledge in this field by developing open source My goal is to contribute to the problems that people face in the software world by creating innovative solutions.
 </details>
