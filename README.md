@@ -1,13 +1,16 @@
 <table>
   <tr>
+    <td>←</td>
+    <td>→</td>
+    <td>🏠︎</td>
     <td width="1200">
+      <small>\home\p0unter\.bashrc</small>
       <a href="https://discord.gg/_pounter"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/yavuz-s-g-85b013374/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
       <a href="mailto:p0unter@proton.me"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
     </td>
-    <td>
-      <small>\home\p0unter\.bashrc</small>
-    </td>
+    <td>🔍</td>
+    <td>☰</td>
   </tr>
 </table>
 
