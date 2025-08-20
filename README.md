@@ -20,7 +20,7 @@
 <details open>
   <summary><strong>About</strong></summary>
   <br>
-Based on my passion for the software industry, I have gained a wide range of experience by developing myself in various fields from a young age. I especially focused on deepening in the field of low-level programming and shared my knowledge in this field by developing open source My goal is to contribute to the problems that people face in the software world by creating innovative solutions.
+Since my early years, I have been interested in technology systems, and before starting my professional career, I acquired the knowledge of an average software developer. During this process, I developed my skills in the fields of Web, Network, Embedded, and Cyber Security. One of my main goals is to become a fully equipped software developer. 
 </details>
 <br>
 
