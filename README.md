@@ -22,7 +22,7 @@
 <details open>
   <summary><strong>About</strong></summary>
   <br>
-Since my early years, I have been interested in technology systems, and before starting my professional career, I acquired the knowledge of an average software developer. During this process, I developed my skills in the fields of Web, Network, Embedded, and Cyber Security. One of my main goals is to become a fully equipped software developer. 
+Since my early years, I have been interested in technology systems, and before starting my professional career, I acquired the knowledge of an average software developer. During this process, I developed my skills in the fields of Web, Network, Embedded, and Cyber Security. One of my main goals is to become a fully equipped developer. 
 </details>
 <br>
 
